@@ -72,6 +72,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hamza2657&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
+
 ---
 
 <!-- Contribution snake -->
