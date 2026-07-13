@@ -19,9 +19,13 @@
 
 ### 🔧 About Me
 
-- 🚗 Currently building **wallbox / EV-charger firmware** (dual-MCU: ESP32 + NXP S32K, MQTT, OCPP)
-- 🏠 Previously: **home-automation products** (BLE Mesh, AWS IoT, Home Assistant) and **IoT / biomedical** devices
-- ⚡ End-to-end: drivers → protocols → cloud → OTA → CI/CD → hardware bring-up
+- ⚡ Embedded software engineer with **3.5+ years** shipping production firmware across bare-metal, RTOS, and embedded Linux
+- 🚗 Currently building **wallbox / EV-charger firmware**: dual-MCU architecture (ESP32 + NXP S32K144 over SPI), cloud sync over MQTT JSON-RPC, OCPP, A/B OTA
+- 🏠 Previously developed **seven home-automation products** (dimmers, curtains, LCD panels, power monitoring) with BLE Mesh, AWS IoT Core, and Home Assistant
+- 🩺 Started out in **biomedical devices**: bare-metal STM32, custom task scheduler in Cortex-M assembly, Modbus over RS-485
+- 🛠 End-to-end comfort: peripheral drivers → communication protocols → cloud integration → OTA → CI/CD → production-line testing
+- 🎓 BS Electronics, Quaid-I-Azam University, Islamabad
+- 📫 Reach me at **hamxa2657@gmail.com** — open to interesting embedded problems
 
 ### 🧰 Tech Stack
 
