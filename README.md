@@ -67,6 +67,11 @@
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![LVGL](https://img.shields.io/badge/-LVGL-2196F3?style=for-the-badge)
 
+### 🔥 Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hamza2657&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 ---
 
 <!-- Contribution snake -->
